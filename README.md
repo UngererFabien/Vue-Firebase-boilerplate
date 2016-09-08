@@ -1,6 +1,6 @@
-# lol-datax
+# Vue.js and Firebase
 
-> A Vue.js project
+> Boilerplate using Vue.js with webpack and ready to deploy on Firebase
 
 ## Build Setup
 
